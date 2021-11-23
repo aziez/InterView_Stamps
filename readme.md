@@ -17,7 +17,7 @@ Aplikasi untuk Menampilkan ramalan cuaca dengan menggunakan API dr openweatherma
 
 
 # 2. Preview Program
-![alt text](https://github.com/aziez/SI-GITS_Indonesia/blob/main/Tugas_9VRWeb/Hasil_build2.gif)
+![alt text](https://github.com/aziez/InterView_Stamps/blob/main/WeatherJKT/WeatherJKT_Demo.gif)
 
 
 
